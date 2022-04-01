@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/eii2ig2n9w3mgynp?svg=true)](https://ci.appveyor.com/project/Andrey-36/java-task-2-3-2-gradle-testmode-pattern)
