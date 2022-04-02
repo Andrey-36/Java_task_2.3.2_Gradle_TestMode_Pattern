@@ -15,6 +15,8 @@ repositories {
 dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter:5.8.2'
     implementation 'com.codeborne:selenide:6.3.5'
+    testImplementation group: 'org.slf4j', name: 'slf4j-simple', version: '1.6.2'
+
 
     implementation 'com.github.javafaker:javafaker:1.0.2'
 
