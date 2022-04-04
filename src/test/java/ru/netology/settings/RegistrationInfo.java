@@ -1,4 +1,4 @@
-package ru.netology.Settings;
+package ru.netology.settings;
 
 import lombok.*;
 
